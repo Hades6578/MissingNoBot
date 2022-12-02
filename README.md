@@ -6,14 +6,10 @@ Original files of MissingNo Discord Bot.
 
 Bot Token will need replaced whenever you reinstall the bot for security purposes.
 
-State latest backup date BELOW
-
-05/09/2022 2:17 PM
-
 State Versions of NodeJS and Discord JS Below
 
-NodeJS:
-
-DiscordJS:
+NodeJS: 16.9.1
 
 Depreciated Spawn-a-mon.js due to anti-bot considerations. Do not implement. 12/1/2022
+
+Implemented auto Github syncing, pulls and updates happen automatically. 12/2/2022
